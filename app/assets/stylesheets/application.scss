@@ -18,6 +18,11 @@
 
 body, body > p, body > ol, body > ul, body > td {margin: 8px !important}
 
+#time {
+    color: red;
+    font-weight: bold;
+}
+
 #banner {
     position: relative;
     min-height: 40px;
